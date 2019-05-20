@@ -1,5 +1,3 @@
 Site web du projet Yoshi !
 
-Maquette en cours
-
-Edit
+Demo live : https://benbrii.github.io/YoshiProject/
